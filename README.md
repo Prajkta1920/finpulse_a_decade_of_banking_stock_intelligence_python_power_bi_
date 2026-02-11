@@ -47,7 +47,7 @@ The project followed a 5-step analytical framework:
 
 ![Sector Overview Report Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/cd5e5cdfd46756728309485d65aa04865554ec0c/dashboard/defination.png)
 
-![Company Performance Report Page](./Screenshot/Company_Performance.png)
+![Company Performance Report Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/f989d80c176fe398fbc41aabcb11cb44b4df63c6/dashboard/financial_performance.png)
 
 ![PSU vs Private Report Page](./Screenshot/PSU_vs_Private.png)
 
