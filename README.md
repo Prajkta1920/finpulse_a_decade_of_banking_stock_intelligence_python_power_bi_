@@ -1,5 +1,5 @@
 # FinPulse : A Deacde of Banking Stock Intelligence
-A data-driven analysis to demystify the "robust" nature of the Indian Petroleum stock market and provide actionable investment insights using Python and Power BI.
+This analysis demystifies the structural robustness of the Indian banking sector by showcasing how a strategic synergy between high-liquidity private leaders and high-alpha government banks drives resilient, risk-optimized investment returns.
 ---
 ## Table of Contents
 - <a href="#overview">Overview</a>
@@ -12,17 +12,16 @@ A data-driven analysis to demystify the "robust" nature of the Indian Petroleum 
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project provides a comprehensive 10-year analysis of the Indian petroleum sector, covering six major listed companies, including one private entity and five PSUs. Utilizing Excel, Python, and Power BI,After conducted a deep dive into sector-wide performance and individual company health through metrics like OPM, CAGR, and market capitalization. The analysis compares the operational efficiency of the private sector against PSUs, evaluating key indicators such as net profit, total turnover, and year-on-year growth ratios. 
-- A core component of the study is a specialized risk and volatility assessment that mathematically categorizes stocks into three distinct risk levels—Low, Medium, and  High—based on their historical impact. 
-- The project culminates in interactive dashboards that visualize revenue trends and performance benchmarks to offer clear, data-backed insights into the industry. 
-- This systematic approach simplifies the complexities of the petroleum market, offering a detailed roadmap of the sector’s historical growth and stability patterns.
+This project provides a comprehensive 10-year analysis of the Indian banking sector, covering major listed financial institutions, including high-growth private entities and leading Public Sector Undertakings (PSUs). Utilizing Python for statistical modeling and Power BI for interactive visualization, the study conducts a deep dive into sector-wide performance and individual bank health through metrics like Yearly Returns, Liquidity Ratios, and Market Turnover.
+- The analysis compares the operational efficiency of the private sector against PSUs, evaluating key indicators such as average trade value, delivery percentages, and year-on-year growth ratios.
+- A core component of the study is a specialized risk and volatility assessment that mathematically categorizes stocks into distinct risk levels—Stability-focused, Alpha-generating, and Volatile—based on their historical price spreads and high-low volatility indices.
+- The project culminates in interactive dashboards that visualize cumulative investment growth and performance benchmarks to offer clear, data-backed insights into the industry’s resilience.
+- This systematic approach simplifies the complexities of the banking market, offering a detailed roadmap of the sector’s historical stability patterns and long-term wealth creation potential.
 
 ---
 
 <h2><a class="anchor" id="Problem-Statement"></a>Problem Statement</h2>
-Investors often avoid Indian petroleum stocks because they are scared of high volatility and unpredictable price swings. 
-- Without clear data, it is difficult for them to distinguish between safe, steady investments and high-risk ones. 
-- This project solves that problem by using 10 years of data to simplify complex market fluctuations into clear, actionable risk levels.
+Investors often hesitate to enter the Indian banking sector due to high market volatility and unpredictable price fluctuations. Without a robust analytical framework, distinguishing between stable, long-term assets and high-risk speculative stocks remains a significant challenge. This project addresses this gap by leveraging 10 years of historical market data to simplify complex fluctuations into clear, actionable risk categories, providing a data-driven roadmap for informed investment decision-making.
 
 ---
 <h2><a class="anchor" id="Tools-Technologies"></a>Tools and Technologies</h2>
@@ -34,43 +33,46 @@ Investors often avoid Indian petroleum stocks because they are scared of high vo
 ---
 
 <h2><a class="anchor" id="method"></a>Method or Framework Followed in these project</h2>
-The project followed a 5-step analytical framework:
+The project followed a 4-step analytical framework:
 
-1.  **Data Collection:** Gathering historical stock prices and financial statements of major petroleum players from trusted .
-2.  **Sector Analysis:** Benchmarking the **Private Sector** against **PSUs** to identify stability trends.
-3.  **Financial Deep-Dive:** Calculating core ratios (P/E, Dividend Yield, Debt-to-Equity) and growth metrics.
-4.  **Insight Synthesis:** Converting technical outputs into simplified visual narratives.
+1.  *Data Acquisition & Preparation:*   Compiling 10 years of historical trading data for major Indian banks, covering both Private and Public Sector Undertakings (PSUs) to ensure a comprehensive market view.
+
+2.  *Comparative Benchmarking:*   Analyzing the performance gap between the Private Sector and PSUs to identify trends in liquidity, delivery percentages, and market dominance.
+
+3.  *Risk & Return Modeling:*   Mathematically calculating core performance metrics—including Yearly Returns, Volatility Indices, and Risk Ratios—to assess the stability of each financial entity.
+
+4.  *Insight Synthesis:*   Converting complex technical outputs and stock fluctuations into simplified visual narratives and interactive dashboards for actionable investment decision-making.
 
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-![Sector Overview Report Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/cd5e5cdfd46756728309485d65aa04865554ec0c/dashboard/defination.png)
+![Market Intelligence Hub Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/0a1f2c1aab0e8d821816aa41ecb8ffe6c9980df6/dashboard/strategic%20market%20overview.png)
 
-![Company Performance Report Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/f989d80c176fe398fbc41aabcb11cb44b4df63c6/dashboard/financial_performance.png)
+![Financial Performance Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/f989d80c176fe398fbc41aabcb11cb44b4df63c6/dashboard/financial_performance.png)
 
-![PSU vs Private Report Page](./Screenshot/PSU_vs_Private.png)
+![Market Dynamics Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/f72705d24351f7a3a75337b3a802e292428639e2/dashboard/market_dynamics.png)
 
-![Growth and Financial Report Page](./Screenshot/Growth_Ratio.png)
+![Risk,Volatility and stability Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/0a1f2c1aab0e8d821816aa41ecb8ffe6c9980df6/dashboard/risk_volatility_and_stability.png)
 
-![Risk and Volatility Report Page](./Screenshot/Risk_and_Volatility.png)
+![Smart Analytics and Bank Intelligence Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/f72705d24351f7a3a75337b3a802e292428639e2/dashboard/smart_analytics_and_bank_intelligence.png)
 
-![Key Insight Report Page](./Screenshot/Key_Insight.png)
+![Key Insight Report Page](https://github.com/Prajkta1920/finpulse_a_decade_of_banking_stock_intelligence_python_power_bi_/blob/0a1f2c1aab0e8d821816aa41ecb8ffe6c9980df6/dashboard/key_insights.png)
 
 ## Result and Conclusion
 
-* **Key Finding:** The analysis revealed that **PSUs** demonstrate superior stability and higher dividend yields compared to private players, making them an excellent entry point for risk-averse investors.
-* **Impact:** By simplifying the "robust" nature of the market into clear insights, the project provides a roadmap for turning market fear into informed investment confidence.
-* **Final Word:** Data proves that the petroleum sector isn't just "volatile"—it’s a calculated opportunity for long-term wealth creation.
+* **Key Finding:** The analysis revealed that while private banks dominate in trading volume and liquidity, PSUs (Public Sector Undertakings) like SBI and Indian Bank demonstrate surprising growth resilience and higher average percentage returns. This identifies them as superior entry points for investors looking for "alpha" growth, while top-tier private players like ICICI Bank serve as the ultimate "robust" anchors due to their low risk-to-price volatility.
+* **Impact:** By simplifying the "robust" nature of the banking market into clear, data-backed risk categories, this project provides a strategic roadmap for turning market fear into informed investment confidence. It empowers investors to look past daily price fluctuations and recognize the structural stability of the Indian financial ecosystem.
+* **Final Word:** The data proves that the Indian banking sector isn’t just "volatile"—it is a calculated opportunity for long-term wealth creation. By balancing high-liquidity private leaders with high-growth PSUs, investors can navigate the market's complexities to build a resilient and high-performing portfolio.
 
 ---
 
 ## 👤 Author
-* **Name:** Tejas Potraje
+* **Name:** Prajkta Khandare
 * **Role:** Data Analyst / Business Analyst
 
 ## 📩 Contact
-* **LinkedIn:** [www.linkedin.com/in/tejas-potraje-1101mntp]
-* **Email:** [tejaspotraje65@gmial.com]
+* **LinkedIn:** [www.linkedin.com/in/prajakta-khandare-7906b4259]
+* **Email:** [prajaktakhandare2003@gmial.com]
 
-* **GitHub:** [https://github.com/Tejaspotraje]
+* **GitHub:** [https://github.com/Prajkta1920]
